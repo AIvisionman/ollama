@@ -2,6 +2,8 @@
  <img alt="ollama" height="200px" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
 </div>
 
+# 教程安利, 如果你也想了解大模型，可以了解 (https://github.com/InternLM/Tutorial)
+
 # Ollama
 
 [![Discord](https://dcbadge.vercel.app/api/server/ollama?style=flat&compact=true)](https://discord.gg/ollama)
